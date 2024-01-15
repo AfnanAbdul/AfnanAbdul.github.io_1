@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://afnanabdul.github.io/sitemap.xml
+Sitemap: https://afnanabdul.dev/sitemap.xml
