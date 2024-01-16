@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineer
+subtitle: Software Engineer - Hi there! This is a work in progress (don't mind the mess :)
 
 profile:
   align: right
